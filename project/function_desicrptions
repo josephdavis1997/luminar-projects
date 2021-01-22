@@ -1,0 +1,17 @@
+user function-Handles login operations
+
+restuarnt function-handles display of avaliable resturants and its selection
+
+def_order_menu-Direct to resturant menu or exit menu based on selection
+
+def_full_file_reader-Handles operation about reading the menu that stores in local system
+
+def_file_sorter-sorting the resturant menu
+
+def_food_drink_order-Displaying no of items in each resturant and handles its selection
+
+def_report-generates report based on each order
+
+def_payment-Handles payment operation   
+
+some of these functions are repeatedly used based on selection of particular resturant
